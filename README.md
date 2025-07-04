@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on: **Web3, Blockchain, Real Estate Tokenization**
 - 🌱 I’m currently learning: **AI, zkEVM, Design Systems**
 - 💬 Ask me about **Gatsby, React, Node, Blockchain, UI/UX**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **nft@nexonecrypto.com**
 - ⚡ Fun fact: _I love building tools that empower innovators._
 
 ---
