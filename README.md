@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hessam Qurashi</h1>
-<h3 align="center">A passionate Senior Full-Stack Developer & UI/UX Specialist from Iran, based in Denmark Also Giant Python Guys I am Hungry Always to USE python For every Things</h3>
+<h3 align="center">Full-Stack Developer & UI/UX Specialist from Iran, based in Denmark Also Giant Python Guys I am Hungry Always to USE python For every Things.My main power is in content strategist and copywriter specializing in Web3, blockchain, and artificial intelligence.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F9C846&center=true&vCenter=true&width=435&lines=Full-stack+Engineer;UI%2FUX+Specialist;Blockchain+Enthusiast;Open+to+Opportunities+in+Europe" alt="Typing SVG" />
