@@ -249,7 +249,8 @@
 <br />
 
 <a href="https://coffeete.ir/ojayek?coffee=1&amount=500000" target="_blank">
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='90' viewBox='0 0 400 90'%3E%3Crect x='6' y='6' width='388' height='78' fill='%23FFDE00' stroke='%23000000' stroke-width='6'/%3E%3Ctext x='200' y='58' text-anchor='middle' font-family='monospace' font-size='32' font-weight='900' fill='%23000000'%3E☕ BUY ME A COFFEE%3C/text%3E%3C/svg%3E" alt="Buy me a coffee" />
+<img width="220" height="220" alt="coffeete-qr-ojayek" src="https://github.com/user-attachments/assets/dc5a210b-7e6f-4413-8d3b-0b2c67acb50e" />
+
 </a>
 
 </div>
@@ -264,9 +265,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ojayek&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=FFDE00&title_color=000000&text_color=000000&icon_color=A855F7&border_color=000000" alt="Stats" height="180" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ojayek&theme=radical&hide_border=true&background=FFDE00&stroke=000000&ring=A855F7&fire=FF5C8A&currStreakLabel=000000&sideLabels=000000&dates=000000" alt="Streak" height="180" />
 
 </div>
 
@@ -274,7 +273,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojayek&layout=compact&theme=radical&hide_border=true&bg_color=A855F7&title_color=FFDE00&text_color=FFFFFF&border_color=000000" alt="Top Languages" height="180" />
 
 </div>
 
@@ -288,7 +286,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ojayek&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" alt="Trophies" />
 
 </div>
 
