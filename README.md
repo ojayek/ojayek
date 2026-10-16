@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="tadbir" src="https://github.com/user-attachments/assets/59d7d68a-2595-4eb0-abd1-a7c2edfde63d" />
 <div dir="rtl" align="right">
 
 <!-- ═══════ HEADER WITH ANIMATED SHAPES ═══════ -->
