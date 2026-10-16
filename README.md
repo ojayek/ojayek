@@ -4,7 +4,7 @@
 
 <!-- YOUR PHOTO HERE — replace the URL below with your uploaded image -->
 <p align="center">
-  <img src="PASTE_YOUR_IMAGE_URL_HERE" alt="Hessam Qurashi" width="200" style="border: 4px solid #000; border-radius: 12px;" />
+<img width="1672" height="941" alt="Code, Coffee and Creative Finance" src="https://github.com/user-attachments/assets/8fe37b0d-976c-4f8e-a4a2-db71c3bdb114" />
 </p>
 
 <!-- ═══════════ HEADER ═══════════ -->
